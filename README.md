@@ -1,11 +1,26 @@
-Start learning Node.js
-work with package.json, raw controller and model also create CLI app
+# My start with Node.js
 
-All actions screenshots from CLI app - https://imgur.com/a/xzCFRyg
+Here i work with:
+- `package.json`(scripts, depencices, devDepencices), 
+- `controller`(invokeAction() - list, get, add, remove)
+- `model`(practise with `fs` and `path` and `commonJS` modules {
+  listContacts,
+  getContactById,
+  removeContact,
+  addContact,})
+- creating CLI app with `yargs` and `commander`
 
-And by standalone action:
 
---action list - https://imgur.com/YflAohB
---action get - https://imgur.com/rlZJoSr
---action add - https://imgur.com/GEFZgJa
---action remove -https://imgur.com/Jpb6wMw
+
+
+##  CLI app 
+
+  [All actions screenshots](https://imgur.com/a/xzCFRyg)
+
+  And by standalone action: 
+  - [--action list](https://imgur.com/YflAohB)
+  - [--action get](https://imgur.com/rlZJoSr)
+  - [--action add](https://imgur.com/GEFZgJa)
+  - [--action remove](https://imgur.com/Jpb6wMw)
+
+
