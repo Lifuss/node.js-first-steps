@@ -2,7 +2,7 @@
 
 Here i work with:
 - `package.json`(scripts, depencices, devDepencices), 
-- `controller`(invokeAction() - list, get, add, remove)
+- `controller`(practise with `fs` and `path` create invokeAction() - list, get, add, remove)
 - `model`({
   listContacts,
   getContactById,
