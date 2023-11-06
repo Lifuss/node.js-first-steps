@@ -2,8 +2,8 @@
 
 Here i work with:
 - `package.json`(scripts, depencices, devDepencices), 
-- `controller`(practise with `fs` and `path` create invokeAction() - list, get, add, remove)
-- `model`({
+- `controller`(invokeAction() - list, get, add, remove)
+- `model`(practise with `fs` and `path` and `commonJS` modules {
   listContacts,
   getContactById,
   removeContact,
